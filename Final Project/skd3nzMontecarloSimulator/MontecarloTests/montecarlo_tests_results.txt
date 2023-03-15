@@ -1,0 +1,16 @@
+test_AnalyzerCombo (__main__.MonteCarloTests) ... ok
+test_AnalyzerFaceperRoll (__main__.MonteCarloTests) ... ok
+test_AnalyzerInit (__main__.MonteCarloTests) ... ok
+test_AnalyzerJackpot (__main__.MonteCarloTests) ... ok
+test_DieChangeWeight (__main__.MonteCarloTests) ... ok
+test_DieInit (__main__.MonteCarloTests) ... ok
+test_DieRollDie (__main__.MonteCarloTests) ... ok
+test_DieShow (__main__.MonteCarloTests) ... ok
+test_GameShow (__main__.MonteCarloTests) ... ok
+test_GamesInit (__main__.MonteCarloTests) ... ok
+test_GamesPlay (__main__.MonteCarloTests) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.034s
+
+OK
